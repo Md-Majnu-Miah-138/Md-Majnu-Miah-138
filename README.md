@@ -52,10 +52,9 @@ Check out my repositories **[here](https://github.com/Md-Majnu-Miah-138?tab=repo
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Md-Majnu-Miah-138&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Majnu-Miah-138&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Majnu-Miah-138&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📫 **How to Reach Me**
